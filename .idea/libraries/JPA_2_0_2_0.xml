@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="JPA 2.0-2.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/javax.persistence.jar!/" />
+      <root url="jar://E:/Documents/java/hibernate-core-5.0.5.Final.jar!/" />
+      <root url="jar://E:/Documents/java/hibernate-entitymanager-5.0.5.Final.jar!/" />
+      <root url="jar://E:/Documents/java/hibernate-validator-5.2.2.Final.jar!/" />
+      <root url="jar://E:/Documents/java/mysql-connector-java-5.1.37.jar!/" />
+      <root url="jar://E:/Documents/java/mysql-connector-java-5.1.38.jar!/" />
+      <root url="jar://E:/Documents/java/persistence-api-1.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
